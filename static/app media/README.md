@@ -1,1 +1,1 @@
-[![circuit diagram](https://github.com/imvickykumar999/MultiUser-Home-Automation-App/blob/main/static/app%20media/circuit%20diagram.jpg?raw=true)](https://github.com/imvickykumar999/Play-Store-Developer-Account)
+[![circuit diagram](https://github.com/imvickykumar999/MultiUser-Home-Automation-App/blob/main/static/console%20graphics/circuit%20diagram.jpg)](https://github.com/imvickykumar999/Play-Store-Developer-Account)
