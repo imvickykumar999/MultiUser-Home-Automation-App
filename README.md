@@ -1,6 +1,11 @@
 # MultiUser-Home-Automation-App
 
----------------------------------------
+<table>
+   <tr>
+       <td><img src="https://github.com/imvickykumar999/MultiUser-Home-Automation-App/blob/main/static/console%20graphics/phone%20486%20x%201080/LoginSignup.jpg?raw=true" align="right" alt="4" width = 400px></td>
+      <td><img src="https://github.com/imvickykumar999/MultiUser-Home-Automation-App/blob/main/static/console%20graphics/phone%20486%20x%201080/firstlook.jpg?raw=true" alt="3" width = 400px></td>
+  </tr>
+</table>
 
 # Short description 
 
