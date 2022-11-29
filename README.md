@@ -20,7 +20,3 @@
     Need to upload the .ino code (given in the GitHub link) in ESP32 before using this app.
 
     https://github.com/imvickykumar999/MultiUser-Home-Automation-App/blob/main/files/touploadesp32.ino
-
------------------------------------
-
-[![final block code mit](https://github.com/imvickykumar999/Smart-Battery-Manager/blob/main/final%20project/blocks%20(2).png?raw=true)](https://github.com/imvickykumar999/Smart-Battery-Manager/blob/main/final%20project/GoogleAccount_checkpoint1.apk)
