@@ -1,4 +1,4 @@
-# MultiUser-Home-Automation-App
+# privacy policy - MultiUser-Home-Automation-App
 
 <table>
    <tr>
