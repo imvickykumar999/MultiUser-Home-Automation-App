@@ -1,7 +1,9 @@
-# privacy policy - MultiUser-Home-Automation-App
+# Privacy Policy - MultiUser-Home-Automation-App
 -----------------------------
 
-![cd](https://github.com/imvickykumar999/MultiUser-Home-Automation-App/raw/main/static/console%20graphics/circuit%20diagram.jpg)
+## >>> Click below circuit diagram for [Video Tutorial](https://clipchamp.com/watch/BBWwZlmcUz5).
+
+[![cd](https://github.com/imvickykumar999/MultiUser-Home-Automation-App/raw/main/static/console%20graphics/circuit%20diagram.jpg)](https://clipchamp.com/watch/BBWwZlmcUz5)
 
 -------------------------------
 
