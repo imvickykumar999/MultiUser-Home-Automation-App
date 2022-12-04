@@ -1,11 +1,11 @@
-# privacy policy - MultiUser-Home-Automation-App
+# Privacy Policy - MultiUser-Home-Automation-App
+-----------------------------
 
-<table>
-   <tr>
-       <td><img src="https://github.com/imvickykumar999/MultiUser-Home-Automation-App/blob/main/static/console%20graphics/phone%20486%20x%201080/LoginSignup.jpg?raw=true" align="right" alt="4" width = 400px></td>
-      <td><img src="https://github.com/imvickykumar999/MultiUser-Home-Automation-App/blob/main/static/console%20graphics/phone%20486%20x%201080/firstlook.jpg?raw=true" alt="3" width = 400px></td>
-  </tr>
-</table>
+## >>> Click below circuit diagram for [Video Tutorial](https://clipchamp.com/watch/BBWwZlmcUz5).
+
+[![cd](https://github.com/imvickykumar999/MultiUser-Home-Automation-App/raw/main/static/console%20graphics/circuit%20diagram.jpg)](https://clipchamp.com/watch/BBWwZlmcUz5)
+
+-------------------------------
 
 # Short description 
 
@@ -20,3 +20,13 @@
     Need to upload the .ino code (given in the GitHub link) in ESP32 before using this app.
 
     https://github.com/imvickykumar999/MultiUser-Home-Automation-App/blob/main/files/touploadesp32.ino
+
+-----------------------------------------------
+
+<table>
+   <tr>
+       <td><img src="https://github.com/imvickykumar999/MultiUser-Home-Automation-App/blob/main/static/console%20graphics/phone%20486%20x%201080/LoginSignup.jpg?raw=true" align="right" alt="4" width = 400px></td>
+      <td><img src="https://github.com/imvickykumar999/MultiUser-Home-Automation-App/blob/main/static/console%20graphics/phone%20486%20x%201080/firstlook.jpg?raw=true" alt="3" width = 400px></td>
+  </tr>
+</table>
+
