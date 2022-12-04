@@ -6,9 +6,9 @@
 
 -----------------------------
 
-### >>> Click below `circuit diagram` : [Video Explaination](https://photos.app.goo.gl/a4uwUou5EDR2QqmV8).
+### >>> Click below `circuit diagram` : [Video Explaination](https://www.linkedin.com/posts/imvickykumar999_playstore-homeautomation-chargers-activity-7005271396771598337-hKnR?utm_source=share&utm_medium=member_android).
 
-[![cd](https://github.com/imvickykumar999/MultiUser-Home-Automation-App/raw/main/static/console%20graphics/circuit%20diagram.jpg)](https://photos.app.goo.gl/a4uwUou5EDR2QqmV8)
+[![cd](https://github.com/imvickykumar999/MultiUser-Home-Automation-App/raw/main/static/console%20graphics/circuit%20diagram.jpg)](https://www.linkedin.com/posts/imvickykumar999_playstore-homeautomation-chargers-activity-7005271396771598337-hKnR?utm_source=share&utm_medium=member_android)
 
 -------------------------------
 
