@@ -1,7 +1,12 @@
 ## Privacy Policy - MultiUser-Home-Automation-App
+
+### `Enter Username and Password to signup or login`
+
+`Note: Password must be atleast 6 character, and username must not contain space or special symbols`
+
 -----------------------------
 
-### >>> Click below circuit diagram for [Video Tutorial](https://clipchamp.com/watch/BBWwZlmcUz5).
+### >>> Click below circuit diagram for `how to use` : [Video Explaination](https://clipchamp.com/watch/BBWwZlmcUz5).
 
 [![cd](https://github.com/imvickykumar999/MultiUser-Home-Automation-App/raw/main/static/console%20graphics/circuit%20diagram.jpg)](https://clipchamp.com/watch/BBWwZlmcUz5)
 
