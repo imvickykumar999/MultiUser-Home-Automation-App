@@ -1,31 +1,48 @@
 
-# pip install -r requirements.txt
+import kivy
+kivy.require("1.9.1")
 
 from kivy.app import App
 from kivy.uix.button import Button
+from kivymd.uix.screen import Screen
 
-class TestApp(App):
+import requests
+from requests.structures import CaseInsensitiveDict
+
+url = "https://neosalpha-999-default-rtdb.firebaseio.com/cURL/Switch.json"
+headers = CaseInsensitiveDict()
+headers["Content-Type"] = "application/x-www-form-urlencoded"
+
+class ButtonApp(App):
     def build(self):
-        return Button(text='My Name is Vicks.')
+        screen = Screen()
 
-TestApp().run()
+        btn_ON = Button(text ="ON",
+                font_size ="20sp",
+                background_color =(1, 1, 1, 1),
+                color =(1, 1, 1, 1),
+                size_hint =(.2, .2),
+                pos =(300, 200))
 
+        btn_OFF = Button(text ="OFF",
+                font_size ="20sp",
+                background_color =(1, 1, 1, 1),
+                color =(1, 1, 1, 1),
+                size_hint =(.2, .2),
+                pos =(300, 400))
 
-# create button to call below function for 0 and 1
+        btn_ON.bind(on_press = self.callback_ON)
+        btn_OFF.bind(on_press = self.callback_OFF)
 
+        screen.add_widget(btn_OFF)
+        screen.add_widget(btn_ON)
+        return screen
+        
+    def callback_ON(self, event):
+        requests.put(url, headers=headers, data="1")
 
-# import requests
-# from requests.structures import CaseInsensitiveDict
+    def callback_OFF(self, event):
+        requests.put(url, headers=headers, data="0")
 
-# url = "https://home-automation-336c0-default-rtdb.firebaseio.com/A/B/C/Switch.json"
-
-# headers = CaseInsensitiveDict()
-# headers["Content-Type"] = "application/x-www-form-urlencoded"
-
-# data = "0"
-
-
-# resp = requests.put(url, headers=headers, data=data)
-
-# print(resp.status_code)
-
+root = ButtonApp()
+root.run()
